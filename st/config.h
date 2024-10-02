@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Iosevka Custom:style=Light:pixelsize=13:antialias=true:autohint=true:rgba=rgb";
+static char *font = "Iosevka Custom:style=Light:pixelsize=13:antialias=true:autohint=true:rgba=none";
 /* Spare fonts */
 static char *font2[] = {
 /*	"Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true", */
